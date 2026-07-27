@@ -18,6 +18,6 @@
 Final:
 [x] Set up Python and VS Code.
 [x] Create/update your python-bootcamp GitHub repository.
-[ ] Create 5 small Python programs using the concepts learned.
-[ ] Practise string and list indexing/slicing.
-[ ] Commit and push your work to GitHub.
+[x] Create 5 small Python programs using the concepts learned.
+[x] Practise string and list indexing/slicing.
+[x] Commit and push your work to GitHub.
