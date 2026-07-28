@@ -38,7 +38,7 @@ Final:
   [x] Even/Odd Number Checker
   [x] Positive/Negative/Zero Checker
   [x] Grade Calculator
-  [ ] Largest of Three Numbers
+  [x] Largest of Three Numbers
   [ ] Multiplication Table
   [ ] Number Guessing Program
   [ ] Simple Menu-Driven Program
