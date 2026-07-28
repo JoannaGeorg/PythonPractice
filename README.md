@@ -39,7 +39,7 @@ Final:
   [x] Positive/Negative/Zero Checker
   [x] Grade Calculator
   [x] Largest of Three Numbers
-  [ ] Multiplication Table
+  [x] Multiplication Table
   [ ] Number Guessing Program
   [ ] Simple Menu-Driven Program
 [ ] Mini Project:
