@@ -16,11 +16,11 @@
 - Basic Input/Output
 
 Final:
-[x] Set up Python and VS Code.
-[x] Create/update your python-bootcamp GitHub repository.
-[x] Create 5 small Python programs using the concepts learned.
-[x] Practise string and list indexing/slicing.
-[x] Commit and push your work to GitHub.
+- [x] Set up Python and VS Code.
+- [x] Create/update your python-bootcamp GitHub repository.
+- [x] Create 5 small Python programs using the concepts learned.
+- [x] Practise string and list indexing/slicing.
+- [x] Commit and push your work to GitHub.
 
 ##### Task 2: Comparison Operators & Python Statements
 - Python Comparison Operators
@@ -34,13 +34,13 @@ Final:
 
 
 Final:
-[x] Create programs for:
-  [x] Even/Odd Number Checker
-  [x] Positive/Negative/Zero Checker
-  [x] Grade Calculator
-  [x] Largest of Three Numbers
-  [x] Multiplication Table
-  [x] Number Guessing Program
-  [x] Simple Menu-Driven Program
-[x] Mini Project:
-  [x] Create a Student Grade Calculator that accepts marks, calculates the total and average and displays the grade and pass/fail status.
+- [x] Create programs for:
+  - [x] Even/Odd Number Checker
+  - [x] Positive/Negative/Zero Checker
+  - [x] Grade Calculator
+  - [x] Largest of Three Numbers
+  - [x] Multiplication Table
+  - [x] Number Guessing Program
+  - [x] Simple Menu-Driven Program
+- [x] Mini Project:
+  - [x] Create a Student Grade Calculator that accepts marks, calculates the total and average and displays the grade and pass/fail status.
