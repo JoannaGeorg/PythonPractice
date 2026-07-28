@@ -40,7 +40,7 @@ Final:
   [x] Grade Calculator
   [x] Largest of Three Numbers
   [x] Multiplication Table
-  [ ] Number Guessing Program
+  [x] Number Guessing Program
   [ ] Simple Menu-Driven Program
 [ ] Mini Project:
   [ ] Create a Student Grade Calculator that accepts marks, calculates the total and average and displays the grade and pass/fail status.
