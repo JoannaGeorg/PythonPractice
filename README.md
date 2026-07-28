@@ -21,3 +21,26 @@ Final:
 [x] Create 5 small Python programs using the concepts learned.
 [x] Practise string and list indexing/slicing.
 [x] Commit and push your work to GitHub.
+
+##### Task 2: Comparison Operators & Python Statements
+- Python Comparison Operators
+- Python Statements
+- Comparison and Logical Operators
+- if, elif, else
+- for loops
+- while loops
+- range()
+- List Comprehensions
+
+
+Final:
+[ ] Create programs for:
+  [ ] Even/Odd Number Checker
+  [ ] Positive/Negative/Zero Checker
+  [ ] Grade Calculator
+  [ ] Largest of Three Numbers
+  [ ] Multiplication Table
+  [ ] Number Guessing Program
+  [ ] Simple Menu-Driven Program
+[ ] Mini Project:
+  [ ] Create a Student Grade Calculator that accepts marks, calculates the total and average and displays the grade and pass/fail status.
