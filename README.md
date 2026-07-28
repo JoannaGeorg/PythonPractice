@@ -34,13 +34,13 @@ Final:
 
 
 Final:
-[ ] Create programs for:
+[x] Create programs for:
   [x] Even/Odd Number Checker
   [x] Positive/Negative/Zero Checker
   [x] Grade Calculator
   [x] Largest of Three Numbers
   [x] Multiplication Table
   [x] Number Guessing Program
-  [ ] Simple Menu-Driven Program
+  [x] Simple Menu-Driven Program
 [ ] Mini Project:
   [ ] Create a Student Grade Calculator that accepts marks, calculates the total and average and displays the grade and pass/fail status.
