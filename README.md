@@ -42,5 +42,5 @@ Final:
   [x] Multiplication Table
   [x] Number Guessing Program
   [x] Simple Menu-Driven Program
-[ ] Mini Project:
-  [ ] Create a Student Grade Calculator that accepts marks, calculates the total and average and displays the grade and pass/fail status.
+[x] Mini Project:
+  [x] Create a Student Grade Calculator that accepts marks, calculates the total and average and displays the grade and pass/fail status.
