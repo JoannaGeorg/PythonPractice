@@ -37,7 +37,7 @@ Final:
 [ ] Create programs for:
   [x] Even/Odd Number Checker
   [x] Positive/Negative/Zero Checker
-  [ ] Grade Calculator
+  [x] Grade Calculator
   [ ] Largest of Three Numbers
   [ ] Multiplication Table
   [ ] Number Guessing Program
