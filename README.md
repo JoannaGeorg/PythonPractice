@@ -35,8 +35,8 @@ Final:
 
 Final:
 [ ] Create programs for:
-  [ ] Even/Odd Number Checker
-  [ ] Positive/Negative/Zero Checker
+  [x] Even/Odd Number Checker
+  [x] Positive/Negative/Zero Checker
   [ ] Grade Calculator
   [ ] Largest of Three Numbers
   [ ] Multiplication Table
