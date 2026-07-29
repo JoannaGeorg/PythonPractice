@@ -66,7 +66,7 @@ Final:
   - [x] Prime Number Checker
   - [x] Factorial Calculator
   - [x] Maximum and Minimum Finder
-  - [ ] Palindrome Checker
+  - [x] Palindrome Checker
   - [ ] Temperature Converter
 - [ ] Mini Task:
   - [ ] Create a Student Management Program using functions that allows users to:
