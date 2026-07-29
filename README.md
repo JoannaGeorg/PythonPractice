@@ -65,7 +65,7 @@ Final:
   - [x] Calculator
   - [x] Prime Number Checker
   - [x] Factorial Calculator
-  - [ ] Maximum and Minimum Finder
+  - [x] Maximum and Minimum Finder
   - [ ] Palindrome Checker
   - [ ] Temperature Converter
 - [ ] Mini Task:
