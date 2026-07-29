@@ -68,9 +68,9 @@ Final:
   - [x] Maximum and Minimum Finder
   - [x] Palindrome Checker
   - [x] Temperature Converter
-- [ ] Mini Task:
-  - [ ] Create a Student Management Program using functions that allows users to:
-    - [ ] Add a student
-    - [ ] View students
-    - [ ] Search for a student
-    - [ ] Calculate average marks
+- [x] Mini Task:
+  - [x] Create a Student Management Program using functions that allows users to:
+    - [x] Add a student
+    - [x] View students
+    - [x] Search for a student
+    - [x] Calculate average marks
