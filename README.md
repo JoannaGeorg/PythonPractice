@@ -63,7 +63,7 @@ To Study:
 Final:
 - [ ] Create functions for:
   - [x] Calculator
-  - [ ] Prime Number Checker
+  - [x] Prime Number Checker
   - [ ] Factorial Calculator
   - [ ] Maximum and Minimum Finder
   - [ ] Palindrome Checker
