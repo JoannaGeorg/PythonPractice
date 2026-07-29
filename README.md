@@ -64,7 +64,7 @@ Final:
 - [ ] Create functions for:
   - [x] Calculator
   - [x] Prime Number Checker
-  - [ ] Factorial Calculator
+  - [x] Factorial Calculator
   - [ ] Maximum and Minimum Finder
   - [ ] Palindrome Checker
   - [ ] Temperature Converter
