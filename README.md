@@ -61,13 +61,13 @@ To Study:
 - Introduction to Lambda Functions
 
 Final:
-- [ ] Create functions for:
+- [x] Create functions for:
   - [x] Calculator
   - [x] Prime Number Checker
   - [x] Factorial Calculator
   - [x] Maximum and Minimum Finder
   - [x] Palindrome Checker
-  - [ ] Temperature Converter
+  - [x] Temperature Converter
 - [ ] Mini Task:
   - [ ] Create a Student Management Program using functions that allows users to:
     - [ ] Add a student
