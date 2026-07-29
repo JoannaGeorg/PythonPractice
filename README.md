@@ -44,3 +44,33 @@ Final:
   - [x] Simple Menu-Driven Program
 - [x] Mini Project:
   - [x] Create a Student Grade Calculator that accepts marks, calculates the total and average and displays the grade and pass/fail status.
+
+##### Task 3: Methods and Functions
+
+To Study:
+- Methods
+- Built-in Functions
+- String and List Methods
+- Dictionary Methods
+- Defining Functions
+- Parameters and Arguments
+- Return Values
+- Default Arguments
+- Scope
+- *args and **kwargs
+- Introduction to Lambda Functions
+
+Final:
+- [ ] Create functions for:
+  - [ ] Calculator
+  - [ ] Prime Number Checker
+  - [ ] Factorial Calculator
+  - [ ] Maximum and Minimum Finder
+  - [ ] Palindrome Checker
+  - [ ] Temperature Converter
+- [ ] Mini Task:
+  - [ ] Create a Student Management Program using functions that allows users to:
+    - [ ] Add a student
+    - [ ] View students
+    - [ ] Search for a student
+    - [ ] Calculate average marks
