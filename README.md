@@ -86,6 +86,7 @@ Final:
   - [x] 1. Fibonacci Number
   - [x] 2. GCD of 2 Numbers
   - [x] 3. Raise to Power of Its Own Reverse
+  - [x] 4. Valid Paranthesis
 
 - [ ] 2 – Mini Project: Build a simple Student Management System.
   - [ ] Add student
