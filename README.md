@@ -74,3 +74,30 @@ Final:
     - [x] View students
     - [x] Search for a student
     - [x] Calculate average marks
+
+
+##### Task 5: Python Foundation Assessment & Mini Project
+
+To Study:
+- Revise all Week 2 topics.
+
+Final:
+- [ ] 1 – Python Assessment: Solve 10 Python programming problems covering the topics studied during the week.
+
+- [ ] 2 – Mini Project: Build a simple Student Management System.
+  - [ ] Add student
+  - [ ] View all students
+  - [ ] Search student
+  - [ ] Calculate average marks
+  - [ ] Display grade
+  - [ ] Update student details
+  - [ ] Delete student
+
+Friday Final Submission
+
+GitHub repository link
+10 Python assessment solutions
+Student Management System
+Week 2 learning summary
+Challenges faced
+Topics requiring further practice
