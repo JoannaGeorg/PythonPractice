@@ -83,7 +83,8 @@ To Study:
 
 Final:
 - [ ] 1 – Python Assessment: Solve 10 Python programming problems covering the topics studied during the week.
-  - [x] Fibonacci Number
+  - [x] 1. Fibonacci Number
+  - [x] 2. GCD of 2 Numbers
 
 - [ ] 2 – Mini Project: Build a simple Student Management System.
   - [ ] Add student
