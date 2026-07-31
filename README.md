@@ -88,6 +88,7 @@ Final:
   - [x] 3. Raise to Power of Its Own Reverse
   - [x] 4. Valid Paranthesis
   - [x] 5. Find the Index of the First Occurrence in a String
+  - [x] 6. Roman to Integer
 
 - [ ] 2 – Mini Project: Build a simple Student Management System.
   - [ ] Add student
