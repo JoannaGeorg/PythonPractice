@@ -89,6 +89,7 @@ Final:
   - [x] 4. Valid Paranthesis
   - [x] 5. Find the Index of the First Occurrence in a String
   - [x] 6. Roman to Integer
+  - [x] 7. Longest Common Prefix
 
 - [ ] 2 – Mini Project: Build a simple Student Management System.
   - [ ] Add student
