@@ -94,14 +94,14 @@ Final:
   - [x] 9. Add Binary
   - [x] 10. Remove Element
 
-- [ ] 2 – Mini Project: Build a simple Student Management System.
+- [x] 2 – Mini Project: Build a simple Student Management System.
   - [x] Add student
   - [x] View all students
   - [x] Search student
   - [x] Calculate average marks
   - [x] Display grade
   - [x] Update student details
-  - [ ] Delete student
+  - [x] Delete student
 
 Friday Final Submission
 
