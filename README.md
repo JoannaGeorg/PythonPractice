@@ -74,3 +74,40 @@ Final:
     - [x] View students
     - [x] Search for a student
     - [x] Calculate average marks
+
+
+##### Task 5: Python Foundation Assessment & Mini Project
+
+To Study:
+- Revise all Week 2 topics.
+
+Final:
+- [x] 1 – Python Assessment: Solve 10 Python programming problems covering the topics studied during the week.
+  - [x] 1. Fibonacci Number
+  - [x] 2. GCD of 2 Numbers
+  - [x] 3. Raise to Power of Its Own Reverse
+  - [x] 4. Valid Paranthesis
+  - [x] 5. Find the Index of the First Occurrence in a String
+  - [x] 6. Roman to Integer
+  - [x] 7. Longest Common Prefix
+  - [x] 8. Length of Last Word
+  - [x] 9. Add Binary
+  - [x] 10. Remove Element
+
+- [x] 2 – Mini Project: Build a simple Student Management System.
+  - [x] Add student
+  - [x] View all students
+  - [x] Search student
+  - [x] Calculate average marks
+  - [x] Display grade
+  - [x] Update student details
+  - [x] Delete student
+
+Friday Final Submission
+
+GitHub repository link
+10 Python assessment solutions
+Student Management System
+Week 2 learning summary
+Challenges faced
+Topics requiring further practice
