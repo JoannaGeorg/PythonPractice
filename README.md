@@ -82,7 +82,7 @@ To Study:
 - Revise all Week 2 topics.
 
 Final:
-- [ ] 1 – Python Assessment: Solve 10 Python programming problems covering the topics studied during the week.
+- [x] 1 – Python Assessment: Solve 10 Python programming problems covering the topics studied during the week.
   - [x] 1. Fibonacci Number
   - [x] 2. GCD of 2 Numbers
   - [x] 3. Raise to Power of Its Own Reverse
@@ -92,15 +92,15 @@ Final:
   - [x] 7. Longest Common Prefix
   - [x] 8. Length of Last Word
   - [x] 9. Add Binary
-  - [ ] 10. Remove Element
+  - [x] 10. Remove Element
 
 - [ ] 2 – Mini Project: Build a simple Student Management System.
-  - [ ] Add student
-  - [ ] View all students
-  - [ ] Search student
-  - [ ] Calculate average marks
-  - [ ] Display grade
-  - [ ] Update student details
+  - [x] Add student
+  - [x] View all students
+  - [x] Search student
+  - [x] Calculate average marks
+  - [x] Display grade
+  - [x] Update student details
   - [ ] Delete student
 
 Friday Final Submission
