@@ -92,6 +92,7 @@ Final:
   - [x] 7. Longest Common Prefix
   - [x] 8. Length of Last Word
   - [x] 9. Add Binary
+  - [ ] 10. Remove Element
 
 - [ ] 2 – Mini Project: Build a simple Student Management System.
   - [ ] Add student
