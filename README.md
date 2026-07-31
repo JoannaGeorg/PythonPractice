@@ -85,6 +85,7 @@ Final:
 - [ ] 1 – Python Assessment: Solve 10 Python programming problems covering the topics studied during the week.
   - [x] 1. Fibonacci Number
   - [x] 2. GCD of 2 Numbers
+  - [x] 3. Raise to Power of Its Own Reverse
 
 - [ ] 2 – Mini Project: Build a simple Student Management System.
   - [ ] Add student
