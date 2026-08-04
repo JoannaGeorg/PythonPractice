@@ -117,5 +117,5 @@ Final:
 - [x] Implement basic array operations (Traversal, Insertion, Deletion)
 - [x] Reverse a String
 - [x] Count Vowels in a String
-- [ ] Check Palindrome
+- [x] Check Palindrome
 - [ ] Solve 2 beginner DSA problems
