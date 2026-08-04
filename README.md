@@ -133,4 +133,4 @@ Final:
 - [x] Implement a Singly Linked List
 - [x] Implement a Stack
 - [x] Implement a Queue
-- [ ] Build a Balanced Parentheses Checker
+- [x] Build a Balanced Parentheses Checker
