@@ -102,3 +102,22 @@ Final:
   - [x] Display grade
   - [x] Update student details
   - [x] Delete student
+
+
+##### Task 6: DSA Fundamentals
+
+To Study:
+- Introduction to Data Structures
+- Time & Space Complexity (Big-O)
+- Arrays
+- Strings
+
+
+Final:
+- [x] Implement basic array operations (Traversal, Insertion, Deletion)
+- [x] Reverse a String
+- [x] Count Vowels in a String
+- [x] Check Palindrome
+- [x] Solve 2 beginner DSA problems
+  -[x] Linear Search
+  -[x] Binary Search
