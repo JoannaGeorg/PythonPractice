@@ -131,6 +131,6 @@ To Study:
 
 Final:
 - [x] Implement a Singly Linked List
-- [ ] Implement a Stack
+- [x] Implement a Stack
 - [ ] Implement a Queue
 - [ ] Build a Balanced Parentheses Checker
