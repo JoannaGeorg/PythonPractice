@@ -121,3 +121,16 @@ Final:
 - [x] Solve 2 beginner DSA problems
   -[x] Linear Search
   -[x] Binary Search
+
+##### Task 7: Linear Data Structures
+
+To Study:
+- Linked Lists
+- Stacks
+- Queues
+
+Final:
+- [x] Implement a Singly Linked List
+- [x] Implement a Stack
+- [x] Implement a Queue
+- [x] Build a Balanced Parentheses Checker
