@@ -114,7 +114,7 @@ To Study:
 
 
 Final:
-- [ ] Implement basic array operations (Traversal, Insertion, Deletion)
+- [x] Implement basic array operations (Traversal, Insertion, Deletion)
 - [ ] Reverse a String
 - [ ] Count Vowels in a String
 - [ ] Check Palindrome
