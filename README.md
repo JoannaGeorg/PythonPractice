@@ -115,7 +115,7 @@ To Study:
 
 Final:
 - [x] Implement basic array operations (Traversal, Insertion, Deletion)
-- [ ] Reverse a String
+- [x] Reverse a String
 - [ ] Count Vowels in a String
 - [ ] Check Palindrome
 - [ ] Solve 2 beginner DSA problems
