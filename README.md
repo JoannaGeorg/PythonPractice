@@ -119,3 +119,4 @@ Final:
 - [x] Count Vowels in a String
 - [x] Check Palindrome
 - [ ] Solve 2 beginner DSA problems
+  -[x] Linear Search
