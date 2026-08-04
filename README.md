@@ -118,5 +118,6 @@ Final:
 - [x] Reverse a String
 - [x] Count Vowels in a String
 - [x] Check Palindrome
-- [ ] Solve 2 beginner DSA problems
+- [x] Solve 2 beginner DSA problems
   -[x] Linear Search
+  -[x] Binary Search
