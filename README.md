@@ -148,6 +148,6 @@ Final:
 - [ ] Implement
   - [x] Linear Search
   - [x] Binary Search
-  - [ ] Bubble Sort
+  - [x] Bubble Sort
   - [ ] Selection Sort
 - [ ] Solve 3 Easy coding problems using Python
