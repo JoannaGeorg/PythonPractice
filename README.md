@@ -146,7 +146,7 @@ To Study:
 
 Final:
 - [ ] Implement
-  - [ ] Linear Search
+  - [x] Linear Search
   - [ ] Binary Search
   - [ ] Bubble Sort
   - [ ] Selection Sort
