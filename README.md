@@ -147,7 +147,7 @@ To Study:
 Final:
 - [ ] Implement
   - [x] Linear Search
-  - [ ] Binary Search
+  - [x] Binary Search
   - [ ] Bubble Sort
   - [ ] Selection Sort
 - [ ] Solve 3 Easy coding problems using Python
