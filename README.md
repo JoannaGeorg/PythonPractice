@@ -150,5 +150,6 @@ Final:
   - [x] Binary Search
   - [x] Bubble Sort
   - [x] Selection Sort
-- [ ] Solve 3 Easy coding problems using Python
+- [ ] Solve 3 Easy coding problems using Python (Recursion)
   - [x] Sum of a List of Number
+  - [x] Factorial
