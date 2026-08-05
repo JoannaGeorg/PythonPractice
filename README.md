@@ -151,3 +151,4 @@ Final:
   - [x] Bubble Sort
   - [x] Selection Sort
 - [ ] Solve 3 Easy coding problems using Python
+  - [x] Sum of a List of Number
