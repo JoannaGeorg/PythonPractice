@@ -145,9 +145,9 @@ To Study:
 - Introduction to Recursion
 
 Final:
-- [ ] Implement
+- [x] Implement
   - [x] Linear Search
   - [x] Binary Search
   - [x] Bubble Sort
-  - [ ] Selection Sort
+  - [x] Selection Sort
 - [ ] Solve 3 Easy coding problems using Python
