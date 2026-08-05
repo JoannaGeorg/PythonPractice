@@ -134,3 +134,23 @@ Final:
 - [x] Implement a Stack
 - [x] Implement a Queue
 - [x] Build a Balanced Parentheses Checker
+
+##### Taks 8: Searching and Sorting
+
+To Study:
+- Linear Search
+- Binary Search
+- Bubble Sort
+- Selection Sort
+- Introduction to Recursion
+
+Final:
+- [x] Implement
+  - [x] Linear Search
+  - [x] Binary Search
+  - [x] Bubble Sort
+  - [x] Selection Sort
+- [x] Solve 3 Easy coding problems using Python (Recursion)
+  - [x] Sum of a List of Number
+  - [x] Factorial
+  - [x] Harmonic Series
