@@ -154,3 +154,12 @@ Final:
   - [x] Sum of a List of Number
   - [x] Factorial
   - [x] Harmonic Series
+
+##### Task 9: Clean Code Principals
+
+Final:
+- [ ] Refactor at least 3 Python programs from Week 2 by:
+  - Improving variable and function names
+  - Removing duplicate code
+  - Improving formatting and readability
+  - Using comments only where necessary
