@@ -158,7 +158,7 @@ Final:
 ##### Task 9: Clean Code Principals
 
 Final:
-- [ ] Refactor at least 3 Python programs from Week 2 by:
+- [3] Refactor at least 3 Python programs from Week 2 by:
   - Improving variable and function names
   - Removing duplicate code
   - Improving formatting and readability
