@@ -3,8 +3,8 @@ class Student:
     self.name = name
     self.marks = marks
 
-  def printStudent(self):
-    print(f'Name: {self.name} Marks: {self.marks}')
+  def __repr__(self):
+    return f'Name: {self.name} Marks: {self.marks}'
 
 
 class StudentManagement:
@@ -20,7 +20,7 @@ class StudentManagement:
   def viewStudents(self):
     print("\nClass Students:")
     for student in self.students:
-      student.printStudent()
+      print(student)
 
   def searchStudent(self, name):
     for student in self.students:
@@ -95,7 +95,7 @@ while cont:
     name = input("\nEnter the name of the student: ")
     student = class_a.searchStudent(name)
     if student:
-      student.printStudent()
+      print(student)
   elif op == '4':
     print(f"\nThe average of the class = {class_a.getAverage()}")
   elif op == '5':
