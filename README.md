@@ -174,9 +174,11 @@ To Study:
 
 Final:
 Refactor your Student Management System from Week 2 by applying the Clean Code principles learned.
-- [ ] Ensure your project includes:
+- [x] Ensure your project includes:
   - Modular functions
   - Meaningful naming conventions
   - Exception handling (where applicable)
   - Updated README.md
   - Meaningful Git commit history
+- [ ] 3 Problems
+  - Valid Anagram
