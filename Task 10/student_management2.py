@@ -27,7 +27,7 @@ while cont:
     if grade:
       print(f"{name} => Grade: {grade}")
   elif option == '6':
-    name = input("\nEnter the name of the student: ")
+    name = input("\nEnter the name of the student to update: ")
     classA.updateStudent(name)
   elif option == '7':
     name = input("\nEnter the name of the student: ")

@@ -1,4 +1,5 @@
 from student import Student
+from error_handling import checkMarksInput
 
 class StudentManagement:
   def __init__(self):
@@ -54,13 +55,13 @@ class StudentManagement:
     student = self.searchStudent(name)
     if not student:
       return
-    new_name = input("Enter the updated name of the student, or skip: ")
-    if new_name and new_name != 'skip':
-      student.name = new_name
-    new_marks = input("Enter the new marks, or skip: ")
-    if new_marks and new_marks != 'skip':
-      student.marks = int(new_marks)
-    student.printStudent()
+    new_name = input("\nEnter 'skip' to keep the same name: ")
+    if new_name != 'skip':
+      student.name = input("Enter the new name of the student: ")
+    new_marks = input("Enter 'skip' to keep the same marks: ")
+    if new_marks != 'skip':
+      student.marks = checkMarksInput()
+    print(student)
 
   def deleteStudent(self, name):
     student = self.searchStudent(name)
