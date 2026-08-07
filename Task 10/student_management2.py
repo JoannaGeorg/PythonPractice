@@ -1,5 +1,5 @@
 from mangement import StudentManagement
-
+from error_handling import checkMarksInput
 
 classA = StudentManagement()
 print("STUDENT MANAGEMENT PROGRAM")
@@ -10,7 +10,7 @@ while cont:
   option = input("\n1. Add a Student\n2. Print the list of Students\n3. Search for a Student\n4. Get the Average Marks\n5. Get Grade of a Student\n6. Update Student Information\n7. Delete a Student\n\nE to Exit\n\nPlease Enter the index of the function to perform: ")
   if option == '1':
     name = input("\nEnter the name of the student: ")
-    marks = float(input("Enter the marks of the student: "))
+    marks = checkMarksInput()
     classA.addStudent(name, marks)
   elif option == '2':
     classA.viewStudents()
