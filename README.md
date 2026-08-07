@@ -180,6 +180,7 @@ Refactor your Student Management System from Week 2 by applying the Clean Code p
   - Exception handling (where applicable)
   - Updated README.md
   - Meaningful Git commit history
-- [ ] 3 Problems
+- [x] 3 Problems
   - Valid Anagram
   - Right Angle Triangle
+  - Count Digits
