@@ -182,3 +182,4 @@ Refactor your Student Management System from Week 2 by applying the Clean Code p
   - Meaningful Git commit history
 - [ ] 3 Problems
   - Valid Anagram
+  - Right Angle Triangle
