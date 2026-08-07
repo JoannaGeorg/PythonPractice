@@ -163,3 +163,24 @@ Final:
   - Removing duplicate code
   - Improving formatting and readability
   - Using comments only where necessary
+
+##### Task 10: Code Refactoring and Phase 1 Wrap-Up
+
+To Study:
+- Error Handling
+- Simplicity
+- Avoid Code Duplication
+- Introduction to SOLID Principles
+
+Final:
+Refactor your Student Management System from Week 2 by applying the Clean Code principles learned.
+- [x] Ensure your project includes:
+  - Modular functions
+  - Meaningful naming conventions
+  - Exception handling (where applicable)
+  - Updated README.md
+  - Meaningful Git commit history
+- [x] 3 Problems
+  - Valid Anagram
+  - Right Angle Triangle
+  - Count Digits
